@@ -1,6 +1,6 @@
-# SD-TSIA-204 Statistics linear models
+# SD-TSIA204-Statistics linear models
 
-My solutions for "SD-TSIA-204 Statistics linear models" laboratories, a.y. 2023-2024 - Télécom Paris.
+My solutions for "SD-TSIA204-Statistics linear models" laboratories, a.y. 2023-2024 - Télécom Paris.
 
 ## Laboratories:
 
